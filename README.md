@@ -2,6 +2,6 @@
 
 Integrantes: Lucas Marinho, Lucas Nery, Giulle e Gustavo
 
-Tema: Análise de Dados na Detecção de Manipulação de Resultados Futebolísticos
+Tema: Análise de Dados aos sentimentos e reações do público nas premiações do Oscar
 
-Abordagem da Coleta de Dados: Web Scraping
+Abordagem da Coleta de Dados: Processamento de Linguagem Natural (PLN), API, DataSet
