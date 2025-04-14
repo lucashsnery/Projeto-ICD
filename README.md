@@ -58,3 +58,7 @@ Exemplo: u/cinema_love
 
 Data: Data e hora da publicação do comentário.
 Exemplo: 2025-03-03 14:12:10
+
+# Link dos dados:
+
+https://drive.google.com/drive/folders/18oqFb6_7-i5956Uw1FGGG0uZs--yhyh-
