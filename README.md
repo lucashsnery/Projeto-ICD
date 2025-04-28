@@ -56,15 +56,11 @@ A coleta de dados foi feita por meio do API do Reddit, o Praw, utilizando o id d
 
 **Depth:** Nível de aninhamento do comentário na árvore de respostas (0 = comentário principal, 1 = resposta a um comentário, etc.).
 
-**Autor:** Nome do autor do comentário.
-
-**Data:** Data e hora da publicação do comentário.
-
 ### Exemplo
 
-|     Comentário                                           | Sentimento | Upvotes | Depth |      Autor       |        Data         |
-|:--------------------------------------------------------:|:----------:|:-------:|:-----:|:----------------:|:-------------------:|
-| Eu acho que o Oscar deveria ter ido para outro filme!    |  Negativo  |   230   |   1   |  u/cinema_love   | 2025-03-03 14:12:10 |
+|     Comentário                                           | Sentimento | Upvotes | Depth |
+|:--------------------------------------------------------:|:----------:|:-------:|:-----:|
+| Eu acho que o Oscar deveria ter ido para outro filme!    |  Negativo  |   230   |   1   |
 
 ## Acesso aos Dados:
 
